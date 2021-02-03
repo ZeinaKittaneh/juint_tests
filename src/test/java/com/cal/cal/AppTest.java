@@ -36,6 +36,6 @@ public class AppTest
         app.a = 5;
         app.b = 10;
         assertEquals(15, app.add());
-        assertEquals(-5, app.subtract());
+        assertEquals(5, app.subtract());
     }
 }
