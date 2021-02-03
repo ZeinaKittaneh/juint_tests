@@ -25,4 +25,4 @@ jobs:
     - name: Test
       run: mvn test
     - name: Generating Javadoc
-      run: mvn javadoc:javcadoc
+      run: mvn javadoc:javadoc
